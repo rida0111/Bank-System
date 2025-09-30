@@ -1,0 +1,35 @@
+﻿  Bank System.cpp
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsString.h(47,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsString.h(74,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsString.h(101,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsBankClient.h(36,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsBankClient.h(397,26): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsBankClient.h(405,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsBankClient.h(417,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsInputValidate.h(71,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsAddNewClientScreen.h(35,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsUpdateClientScreen.h(34,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsBankClient.h(382,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\Bank System\clsUser.h(348,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  LINK : C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\x64\Debug\Bank System.exe not found or not built by the last incremental link; performing full link
+  Bank System.vcxproj -> C:\Users\Admin\source\repos\mimi\Bank System\Bank_Project\x64\Debug\Bank System.exe

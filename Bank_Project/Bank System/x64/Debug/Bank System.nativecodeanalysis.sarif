@@ -1,0 +1,654 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Hours"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Second"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Minute"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Hours"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Second"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Minute"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@FFF@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Hours"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@FFF@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Second"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+                },
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsDate::{ctor}",
+                  "decoratedName": "??0clsDate@@QEAA@FFF@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsDate::_Minute"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsUser::stloginRegisterRecord::Permissions' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsUser.h"
+                },
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsUser::stloginRegisterRecord::{ctor}",
+                  "decoratedName": "??0stloginRegisterRecord@clsUser@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsUser::stloginRegisterRecord::Permissions"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTransferLoginRecord::DestinationBalance' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTransferLoginRecord::{ctor}",
+                  "decoratedName": "??0stTransferLoginRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTransferLoginRecord::DestinationBalance"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTransferLoginRecord::SourceBalance' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTransferLoginRecord::{ctor}",
+                  "decoratedName": "??0stTransferLoginRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTransferLoginRecord::SourceBalance"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'clsBankClient::stTransferLoginRecord::Amount' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsBankClient.h"
+                },
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "clsBankClient::stTransferLoginRecord::{ctor}",
+                  "decoratedName": "??0stTransferLoginRecord@clsBankClient@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "clsBankClient::stTransferLoginRecord::Amount"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33321.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsDate.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "5ec0cb363039278ef44e4775f30f39e6e5eb3b380c677d5712bb29f2edce8931"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsUser.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "fe9c586e539354c05a53e4ad34ad9cbcb29044885b72969fbb536ae7158fae9f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Admin/source/repos/mimi/Bank System/Bank System/clsBankClient.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "d726623b869cc092365382f5cf5196cadd01a967809f5c4999d7efb06b723759"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/bank system.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "0f1c4a427635cee7560b1d59875f1efb0370ebad0af48a04aa621b70c25b356a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsloginscreen.h"
+          },
+          "hashes": {
+            "sha-256": "63a427a5b4ecdda1cf9888414d3ab73575f4f72cec9db19eed751d019a949bd9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsscrean.h"
+          },
+          "hashes": {
+            "sha-256": "81160beba5459b0a1ad851497352d4ac979bcd4402eb20d9199a9b9f862f0fe1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsperson.h"
+          },
+          "hashes": {
+            "sha-256": "770ea24bf94dbf0303ec536545996b0b15bedfebe97a3ad0133285c9dc55ba75"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsstring.h"
+          },
+          "hashes": {
+            "sha-256": "78ae4d289ed5f684108921bf7307389648b0dd94b9e57e9a7d4861686d525812"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/all.h"
+          },
+          "hashes": {
+            "sha-256": "76933bdfb34c3d2649a0c691d1a4deec5e0b4fb3ff837dbd8d08c54e33786b43"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsutil.h"
+          },
+          "hashes": {
+            "sha-256": "80eabf2cdb29cf4817a41eb273416bb62b41fa40068d29169495cf84f8fcf2df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsinputvalidate.h"
+          },
+          "hashes": {
+            "sha-256": "338e71fdd5bfc72506a4936fc45e7cd73aa90513aae1b66f0e4399fe5539a700"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsmainscrean.h"
+          },
+          "hashes": {
+            "sha-256": "694c421c44dcfcb80d84dc0bf0fba33e0bc934a86f03dc4f0c7a61b228928336"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsclientlist.h"
+          },
+          "hashes": {
+            "sha-256": "490cc0a4cfb05b17d2ef51973dc9b929c2e0bf5fae13d3e142f680218f950110"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsaddnewclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "a2898cc89b4845dfb8dd2c58bd1a9b1de245b2e0452317fde55681b230d1a6d0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsdeleteclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "f4eab24c83d2535ce5eac97179f59bf8f72995c5f6607f6cb95968582554129b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsupdateclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "30643f5aa591deb6b72eb8504c3b56a10ec60c524e5fc72b370f5c05bd8acdd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsfindclientscreen.h"
+          },
+          "hashes": {
+            "sha-256": "58b3d8d7675469ec54a0a179e18d48796cd107b185b1b1ef6b7ec5530b71c32d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clstransactionmainmenue.h"
+          },
+          "hashes": {
+            "sha-256": "821cd5cd45539d20c02e119fe90da71efd657e8dca6b3cdd7f62f397b2d0dc90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsdepositclient.h"
+          },
+          "hashes": {
+            "sha-256": "f394cc1aeac32251be2b993b43d0b21905bb1f809b3ed2ffce0e8b8bacfe0103"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clswithdrawscreen.h"
+          },
+          "hashes": {
+            "sha-256": "c72805e9baea01f3a86dcb72c180d987298116243fab21290518d2d4fd1cd11f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clstotalbalancesscreen.h"
+          },
+          "hashes": {
+            "sha-256": "2ef656cbad8689989b20849fd9be6d353197bade995d4b4410ba67c8fb074796"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clstransferscreen.h"
+          },
+          "hashes": {
+            "sha-256": "c074c5e4c88e62092d868af79ca765a958f56065abe16ab7fbae084c70e641d7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clstransferloginscreen.h"
+          },
+          "hashes": {
+            "sha-256": "4a45dacba6c5f5d4180598a9df20f557a30536d3c1b4e126e04758601455c27e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsmanageusers.h"
+          },
+          "hashes": {
+            "sha-256": "f999e888bdfecf84b5da9bc347518b93233ec5eccf55ab74e666a1d3b53491e7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clslistuser.h"
+          },
+          "hashes": {
+            "sha-256": "95e4d2a08c9e1f692ca5997e1dd1006ae4739d24550fbfeecea68c5eee3caa89"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsaddnewuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "ac761d72b54dceb9d09ab47c3518697f8c4643c492d8ed15218cc571822ce7db"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsdeleteuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "fce9540823fb403b74780c890712d55a37dfca33cca13c05a934e8db614015c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsupdateuserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "6ba0dc4869958847c971fb21ce55a58801917866e588f564c5c959836afb60f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsfinduserscreen.h"
+          },
+          "hashes": {
+            "sha-256": "6e93b0e7ce8f34faef09fe07e6ec9483027a902662a4ab646e1ad55992d438f1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/admin/source/repos/mimi/bank system/bank system/clsloginregisterscreen.h"
+          },
+          "hashes": {
+            "sha-256": "1bfc8896b8c45ee292bc517c61e5a3d5cd2ad8b9ce71bd8547565814b1fe7c0d"
+          }
+        }
+      ]
+    }
+  ]
+}

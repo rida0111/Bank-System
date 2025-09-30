@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Hours</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Second</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Minute</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Hours</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Second</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Minute</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Hours' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@FFF@Z</DECORATED>
+    <FUNCLINE>48</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Hours</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Second' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@FFF@Z</DECORATED>
+    <FUNCLINE>48</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Second</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsDate.h</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsDate::_Minute' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsDate::{ctor}</FUNCTION>
+    <DECORATED>??0clsDate@@QEAA@FFF@Z</DECORATED>
+    <FUNCLINE>48</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsDate::_Minute</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsUser.h</FILENAME>
+      <LINE>184</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsUser::stloginRegisterRecord::Permissions' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsUser::stloginRegisterRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stloginRegisterRecord@clsUser@@QEAA@XZ</DECORATED>
+    <FUNCLINE>184</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsUser::stloginRegisterRecord::Permissions</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsBankClient.h</FILENAME>
+      <LINE>210</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsBankClient::stTransferLoginRecord::DestinationBalance' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsBankClient::stTransferLoginRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stTransferLoginRecord@clsBankClient@@QEAA@XZ</DECORATED>
+    <FUNCLINE>210</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsBankClient::stTransferLoginRecord::DestinationBalance</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsBankClient.h</FILENAME>
+      <LINE>210</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsBankClient::stTransferLoginRecord::SourceBalance' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsBankClient::stTransferLoginRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stTransferLoginRecord@clsBankClient@@QEAA@XZ</DECORATED>
+    <FUNCLINE>210</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsBankClient::stTransferLoginRecord::SourceBalance</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\source\repos\mimi\Bank System\Bank System\</FILEPATH>
+      <FILENAME>clsBankClient.h</FILENAME>
+      <LINE>210</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'clsBankClient::stTransferLoginRecord::Amount' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>clsBankClient::stTransferLoginRecord::{ctor}</FUNCTION>
+    <DECORATED>??0stTransferLoginRecord@clsBankClient@@QEAA@XZ</DECORATED>
+    <FUNCLINE>210</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>clsBankClient::stTransferLoginRecord::Amount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
